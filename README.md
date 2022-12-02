@@ -1,4 +1,4 @@
-# DMD Computer Networks Mini Project
+# DMD-G Computer Networks Mini Project
 
 Student Management System for a single class.
 
